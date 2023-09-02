@@ -16,9 +16,9 @@
 		"nuxt": "^3.6.1"
 	},
 	"dependencies": {
+		"@libsql/client": "^0.3.2",
 		"@lucia-auth/adapter-sqlite": "latest",
 		"@lucia-auth/oauth": "latest",
-		"better-sqlite3": "^8.4.0",
 		"lucia": "latest"
 	}
 }
